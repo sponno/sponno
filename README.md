@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sponno
-- 👀 I spend a lot of my time building software. Most notable projects are www.goodsign.io – digital eSignatures, previously co-founder www.asknicely.com
+- 👀 I spend a lot of my time building software. Most notable projects are https://goodsign.io – digital eSignatures, previously co-founder www.asknicely.com
 - 📫 Find me on twitter/instagram @sponno 
 
 <!---
