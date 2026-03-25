@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sponno
 - 👀 I spend a lot of my time building software. Most notable projects are https://goodsign.io – digital eSignatures, previously co-founder www.asknicely.com
+- I'm also buldiing https://heygopher.ai - the perfect time management, invoicing and project managment software for teams.
 - 📫 Find me on twitter/instagram @sponno 
 
 <!---
